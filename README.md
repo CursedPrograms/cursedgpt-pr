@@ -1,5 +1,5 @@
-<a href="https://github.com/CursedPrograms/pr-website-template/actions/workflows/proof-html.yml">
-    <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/pr-website-template/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
+<a href="https://github.com/CursedPrograms/cursedgpt-pr/actions/workflows/proof-html.yml">
+    <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/cursedgpt-pr/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
 </a>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-# pr-website-template
+# cursedgpt-pr
 
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
