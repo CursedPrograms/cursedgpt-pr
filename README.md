@@ -11,7 +11,7 @@
 # cursedgpt-pr
 
 <div align="center">
-<a target="_blank">
+<a href="https://github.com/CursedPrograms/Cursed-GPT" target="_blank">
     <img src="https://github.com/CursedPrograms/Cursed-GPT/raw/main/demo_images/cover.png"
         alt="CursedGPT">
 </a>
